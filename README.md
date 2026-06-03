@@ -1,21 +1,158 @@
-# 💫 About Me:
-Hi, I’m Shlok Majumdar 👋<br><br>🎓 Integrated M.Tech student in Artificial Intelligence<br>💡 Aspiring AI & Machine Learning Engineer<br>📍 India<br><br>About Me<br><br>I’m a student developer with a strong interest in Artificial Intelligence, Machine Learning, and backend systems.<br>I prefer learning concepts from the ground up—understanding the logic, mathematics, and design decisions behind technologies rather than just using libraries as black boxes.<br><br>My journey so far has involved balancing academic foundations with hands-on experimentation, especially in Python and Java. I’m steadily working toward building reliable, real-world AI systems.<br><br>Technical Skills<br>Programming Languages<br><br>Python – primary language for AI/ML, scripting, and experimentation<br><br>Java – object-oriented programming, inheritance, exception handling, academic projects<br><br>JavaScript (basic proficiency)<br><br>AI & Machine Learning<br><br>Machine Learning fundamentals<br><br>Probability & statistics for ML<br><br>Model training concepts<br><br>Basic NLP and chatbot logic<br><br>Understanding of how large language models function conceptually<br><br>Backend & Systems<br><br>Node.js (learning stage)<br><br>REST API concepts<br><br>Server–client architecture fundamentals<br><br>Computer Science Foundations<br><br>Data Structures & Algorithms (basic to intermediate)<br><br>Theory of Computation (FA, DFA, NFA, Regular Expressions)<br><br>Object-Oriented Design<br><br>Problem-solving and logical reasoning<br><br>Projects<br><br>AI Chatbot (Python)<br>A learning-focused chatbot project to understand conversational flow, intent handling, and basic NLP.<br><br>Java OOP Applications<br>Academic and practice projects focusing on inheritance, abstraction, and exception handling.<br><br>Machine Learning Practice Work<br>Small ML experiments and notebooks focused on probability, classification logic, and model behavior.<br><br>Backend Experiments<br>Early-stage Node.js projects to understand APIs and backend workflows.<br><br>(Projects are continuously evolving as my skills grow.)<br><br>Currently Learning<br><br>Deep Learning fundamentals<br><br>Natural Language Processing<br><br>Backend development with Node.js<br><br>Model architecture, training pipelines, and deployment concepts<br><br>Writing clean, maintainable, and scalable code<br><br>Goals<br><br>Build strong fundamentals in AI and Machine Learning<br><br>Develop end-to-end AI-powered applications<br><br>Gain industry-ready problem-solving skills<br><br>Contribute to meaningful technical projects and open-source work<br><br>What I Value<br><br>Clear understanding over shortcuts<br><br>Consistent improvement over quick results<br><br>Learning through implementation<br><br>Contact<br><br>GitHub: You’re already here<br><br>LinkedIn / Email: (add when ready)<br><br>I’m still learning, but I’m serious about doing it the right way.
+# Hi, I'm Shlok Majumdar 👋
 
+## Data Science | Machine Learning | AI Engineering
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShlokMajumdar007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShlokMajumdar007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlokMajumdar007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Passionate about transforming raw data into intelligent solutions through Machine Learning, Deep Learning, Computer Vision, and MLOps.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShlokMajumdar007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy building end-to-end AI systems, from data collection and feature engineering to model deployment and monitoring.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShlokMajumdar007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Machine Learning & Data Science Enthusiast
+- Building AI-powered real-world applications
+- Interested in Computer Vision, NLP, Generative AI, and MLOps
+- Exploring scalable ML systems and cloud deployment
+- Competitive problem solver and continuous learner
+
+---
+
+## Areas of Expertise
+
+### Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Ensemble Methods
+- Model Optimization
+- Feature Engineering
+
+### Deep Learning
+- Neural Networks
+- CNNs
+- Transfer Learning
+- Object Detection
+- Face Recognition Systems
+
+### Data Science
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Predictive Modeling
+- Time Series Forecasting
+
+### MLOps & Deployment
+- Docker
+- CI/CD
+- Model Serving
+- AWS
+- FastAPI
+- ML Pipelines
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Machine Learning & AI
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C4B8E?style=for-the-badge)
+
+### Deployment & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## Featured Projects
+
+### AI-Powered Face Authentication System
+- Offline Face Recognition
+- Liveness Detection
+- MobileFaceNet Embeddings
+- SQLite Storage
+- AWS Synchronization
+
+### Predictive Analytics Projects
+- Customer Churn Prediction
+- Sales Forecasting
+- Classification & Regression Models
+- Automated ML Pipelines
+
+### Computer Vision Applications
+- Object Detection
+- Face Verification
+- Image Classification
+- Real-Time Inference Systems
+
+---
+
+## Data Science Workflow
+
+```text
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+EDA & Visualization
+      ↓
+Feature Engineering
+      ↓
+Model Training
+      ↓
+Hyperparameter Tuning
+      ↓
+Evaluation
+      ↓
+Deployment
+      ↓
+Monitoring
+```
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShlokMajumdar007&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlokMajumdar007&layout=compact&theme=tokyonight)
+
+---
+
+## Current Focus
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- MLOps & Model Monitoring
+- Computer Vision Systems
+- AI Agents & Automation
+- Generative AI Applications
+
+---
+
+## Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Kaggle: Your Kaggle URL
+- GitHub: https://github.com/ShlokMajumdar007
+
+---
+
+### "Turning Data into Decisions and Models into Products."
+
